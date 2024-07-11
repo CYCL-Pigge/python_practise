@@ -1,0 +1,6 @@
+print('Hello world!!')
+print('hello world!!')
+print('hello world,''how about you')
+print("He say:'Hello world!!'")
+print("He say:\"let\'s do this\"")
+print('"Hello world"\n"You too" ')
